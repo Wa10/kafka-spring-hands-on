@@ -16,7 +16,7 @@
             "type": "string"
         },
         {
-            "name": "booksd",
+            "name": "books",
             "type": {
                 "type": "array",
                 "items": "string"
